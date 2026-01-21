@@ -1,4 +1,4 @@
-#git clone 
+#git clone https://github.com/Majdawad88/LDR-scikit-learn.git
 
 import pandas as pd
 from sklearn.linear_model import LinearRegression
